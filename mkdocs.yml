@@ -1,4 +1,4 @@
-site_name: APJ GEMs Workshop
+site_name: APJ GEMs Workshop 2023
 site_url: https://github.com/oriionz/gemslanding
 site_author: Henry Lai
 
@@ -8,7 +8,7 @@ repo_name: oriionz/gemslanding
 repo_url: https://github.com/oriionz/gemslanding
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2023 Nutanix APAC Enablement Practice
+copyright: Copyright &copy; 2023 Nutanix APAC Revenue Enablement
 
 # Configuration
 
@@ -37,6 +37,8 @@ theme:
   # - navigation.sections # leave this commented for sections
   - navigation.expand
   - navigation.top
+  - navigation.tabs
+  - navigation.tabs.sticky
   - navigation.footer
   - navigation.integrate
   - search.highlight
@@ -102,12 +104,15 @@ plugins:
 #   - stylesheets/extra.css
 
 nav:
-    - 'Overview': index.md
+    - 'Welcome': index.md
+    - 'General Info': daily_agenda/info.md
     - 'Cloud Native Workshop': 
       - 'General Session': daily_agenda/general_agenda.md
       - 'OCP on Nutanix Labs': daily_agenda/labs_agenda.md
-      - 'Labs Information': gts_labs/gts_labs.md
+      - 'Lab Information': gts_labs/gts_labs.md
       - 'Cluster Lookup': cluster_lookup/cluster_lookup.md
     - 'One GTM Planning Workshop':
       - 'Account Planning (AE)': daily_agenda/ae_agenda.md
       - 'Account Planning (AE/SE)': daily_agenda/accounts_agenda.md
+    - 'Resources':
+      - 'SE Resources': daily_agenda/se_resources.md

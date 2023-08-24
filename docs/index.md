@@ -1,19 +1,10 @@
 
 # Welcome
 
-Welcome to the APJ Global Emerging Market's (GEM) workshop. 
+Welcome Ho Chin Minh City, Vietnam!
 
-Together with the Revenue Enablement and Competitive Team, we have put together a packed 5 Days workshop.
+This landing page serves as your go to place for the week long workshop. 
 
+** Henry to complete **
 
-
-### House Keeping Information
-
-| Event | Venue |
-| ----------- | ----------- |
-| **Breakfast** |  MEZZ |
-| **SE General Sessions (Monday-Wednesday)** |  Diamond Room |
-| **AE Breakout session (Wednesday Morning)** |  TBA |
-| **AE/SE Session (Thursday-Friday)** |  TBA |
-| **Lunch** |  MEZZ |
 

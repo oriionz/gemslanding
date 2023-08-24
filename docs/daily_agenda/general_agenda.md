@@ -3,7 +3,7 @@
 ## Day 1: Monday 9 October 2023
 
 |  Time | Session | Speaker |
-|-------------------------|----------|----------------|
+|-------------------------|--------|----------------|
 |`8:00am - 8:15am` | Welcome |
 |`8:15am - 9:45am` | Distribution of THREE Use cases / Pre-assessment | Team Exercise|
 |`9:45am - 10:15am` | SE transformation 2.0 | Vincent Oh |
