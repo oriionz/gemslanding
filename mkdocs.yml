@@ -1,10 +1,10 @@
-site_name: APJ GEM Cloud Native Workshop
+site_name: APJ GEMs Workshop
 site_url: https://github.com/oriionz/gemslanding
 site_author: Henry Lai
 
 # Repository
 
-repo_name: nutanix-japan/ntnxclusctl
+repo_name: oriionz/gemslanding
 repo_url: https://github.com/oriionz/gemslanding
 
 # Copyright
@@ -43,7 +43,7 @@ theme:
   - search.suggest
   - toc.follow
   palette:
-
+    - primary: deep purple
     #Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       scheme: default
@@ -83,7 +83,14 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji 
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+   
 
 plugins:
     - search
@@ -96,10 +103,11 @@ plugins:
 
 nav:
     - 'Overview': index.md
-    - 'Agenda': 
-      - 'General Event Agenda': daily_agenda/general_agenda.md
-      - 'Breakouts and Labs Agenda': daily_agenda/breakout_and_lab_agenda.md
-      - 'Managers Meeting Agenda': daily_agenda/managers_agenda.md
-    - 'Labs Information': gts_labs/gts_labs.md
-    - 'Cluster Lookup': cluster_lookup/cluster_lookup.md
-    - 'Code of Conduct': code_conduct/code_conduct.md
+    - 'Cloud Native Workshop': 
+      - 'General Session': daily_agenda/general_agenda.md
+      - 'OCP on Nutanix Labs': daily_agenda/labs_agenda.md
+      - 'Labs Information': gts_labs/gts_labs.md
+      - 'Cluster Lookup': cluster_lookup/cluster_lookup.md
+    - 'One GTM Planning Workshop':
+      - 'Account Planning (AE)': daily_agenda/ae_agenda.md
+      - 'Account Planning (AE/SE)': daily_agenda/accounts_agenda.md

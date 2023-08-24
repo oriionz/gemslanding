@@ -1,73 +1,47 @@
-# General Event Agenda
+# Cloud Native workshop
 
-???note "Which session to attend?"
-       There are separate sessions for Consultants and Managers.
+## Day 1: Monday 9 October 2023
 
-       ** Consultants/TAM to breakout sessions**
-
-       **Managers to [managers sessions](../daily_agenda/managers_agenda.md).**
-
-## Day 1: Monday 22 May 2023
-
-### Venue Information
-
-| Event | Venue |
-| ----------- | ----------- |
-| `General Sessions` |  Merlin Grand Ballroom |
-
-### Agenda
-
-|  Time | Duration | Event | Speaker |
-|-------------------------|------|----------|----------------|
-| `5:00pm - 7:00pm` | 120 mins| Ice-breaking/Receptions (TBD) | Sabrish |
-| `7:00pm`         |          | Swag Collection and followed by Free & Easy | Sabrish |
+|  Time | Session | Speaker |
+|-------------------------|----------|----------------|
+|`8:00am - 8:15am` | Welcome |
+|`8:15am - 9:45am` | Distribution of THREE Use cases / Pre-assessment | Team Exercise|
+|`9:45am - 10:15am` | SE transformation 2.0 | Vincent Oh |
+|`10:15am - 10:45am`| Morning Coffee Break |
+|`10:45am - 12:30pm `| SE transformation 2.1 | Vincent Oh |
+|`12:30pm - 1:30pm` | Lunch Break |
+|`1:30pm - 3:15pm`| SE transformation 2.2 | Vincent Oh |
+|`3:15pm - 3:45pm`| Afternoon Coffee Break |
+|`3:45pm - 5:15pm`| Cloud Native and Microservices Simplified | Lakshmi Balaramane/Sean Lingham |
+|`5:15pm - 5:30pm` | Wrap up |
+|`6:30pm - 9:00pm` | Team Dinner |
 
 
-## Day 2: Tuesday 23 May 2023
-### Venue Information
+## Day 2: Tuesday 10 October 2023
 
-| Event | Venue |
-| ----------- | ----------- |
-| `General Sessions`  |  Merlin Grand Ballroom |
-
-### Agenda
-
-| Time | Duration | Event | Speaker |
-|-------------------------|------|----------|----------------|
-|`8:20am - 8:30am` | 10 mins  | Opening | Fujino  |
-|`8:30am - 8:40am` | 10 mins  | Opening, Setting the stage, Expectations | Rohit |
-|`8:40am - 9:10am` | 30 mins  | CX Org: What's our mission and value and alignment within the company | Rohit / Dan / Jai / Andy |
-|`9:10am - 9:20am` | 10 mins  | Svc Sales: QTD FY23 and FY24 initiatives | Craig |
-|`9:20am - 9:30am `| 10 mins  | COS: QTD FY23 and FY24 initiatives | Boon Kuan |
-|`9:30am - 10:30am` | 60 mins | Decoding Hybrid Multi-cloud | Mandar |
-|`10:30am - 10:50am` | 20 mins | Morning Coffee Break | |
-|`10:55am - 11:10am `| 15 mins | RES/TAM: QTD FY23 and FY24 initiatives | Mandar / Manoj / Kono-san |
-|`11:10am - 12:40pm` | 90 mins | Hybrid cloud architecture (overview) | Manoj / Mandar |
-|`12:40pm - 1:10pm` | 30 mins | Collaboration: Day-0, Day-1 and Day-2 | Sri/VK/Harpreet |
-|`1:10pm - 2:10pm` | 60 mins | Lunch Break | |
-|`2:10pm - 2:20pm`| 10 mins | Housekeeping reminder | Fujino |
-|`2:20pm - 3:20pm`| 60 mins | Org structure for accelerating Hybrid cloud adoption | Mandar |
-|`3:20pm - 3:40pm`| 20 mins | Partner's Session (CitiusCloud) | CitiusCloud |
-|`3:40pm - 4:00pm` | 20 mins | Partner's Session (Helios) | Helios |
-|`4:00pm - 4:20pm` | 20 mins | Partner's Session (AvancerPi) | AvancerPi |
-|`4:20pm - 4:30pm` | 10 mins | Afternoon Coffee Break + Refreshing + Assembly at Pickup Area (Team Building) |
-|`4:30pm - 5:30pm` | 60 mins | Travel to Panwa Pier |
-|`5:45pm - 8:45pm` | 180 mins | Sunset Cruise + Dinner + Drinks |
-|`8:45pm - 9:45pm` | 60 mins | Travel back to Hotel |
-|`9:45pm` | | Free and Easy |
+| Time | Session | Speaker |
+|-------------------------|----------|----------------|
+|`8:00am - 8:15am` | Day-1 Recap | Henry Lai/Sean Lingham |
+|`8:15am - 10:15am` | Cloud Native and Microservices Simplified | Lakshmi Balaramane/Sean Lingham |
+|`10:15am - 10:45am` | Morning Coffee Break |
+|`10:45am - 12:30pm `| Cloud Native and Microservices Simplified | Lakshmi Balaramane/Sean Lingham |
+|`12:30pm - 1:30pm` | Lunch Break |
+|`1:30pm - 5:30pm`| OCP on Nutanix Labs | Lakshmi Balaramane/Henry Lai |
+|`5:30pm - 5:45pm` | Wrap-up |
                         
 
-## Day 3: Wednesday 24 May 2023
-### Venue Information
+## Day 3: Wednesday 11 October 2023
 
-| Event | Venue |
-| ----------- | ----------- |
-| `General Sessions` |  Merlin Grand Ballroom |
 
-### Agenda
-
-| Time | Duration | Event | Speaker |
-|-------------------------|------|----------|----------------|
-|`8:10am - 8:20am`| 10 mins   | Day-2 Opening             | Rohit/Fujino            |
-|`8:20am - 8:50am`| 30 mins   | APJ CX Award & Recognition | Rohit/Mandar            |
-|`8:50am - 9:50am`| 60 mins   | DevOps and Containers      | Suresh/Manoj            |
+| Time | Session | Speaker |
+|-------------------------|----------|----------------|
+|`8:00am - 8:15am` | Day-2 Recap |
+|`8:15am - 10:15am`| OCP on Nutanix Labs Con't | Lakshmi Balaramane/Sean Lingham |
+|`10:15am - 10:45am` | Morning Coffee Break |
+|`10:45am - 12:30pm `| The Art of selling into Cloud Native | Marc Bardi / Daniel Dislers |
+|`12:30pm - 1:30pm` | Lunch Break |
+|`1:30pm - 3:30pm`| The Art of selling into Cloud Native Con't | Marc Bardi / Daniel Dislers |
+|`3:30pm - 4:00pm` | Afternoon Coffee Break |
+|`4:00pm - 4:45pm`| The Art of selling into Cloud Native Con't | Marc Bardi / Daniel Dislers |
+|`4:45pm - 6:00pm` | Team exercise |
+|`6:00pm - 6:15pm` | Wrap-up |

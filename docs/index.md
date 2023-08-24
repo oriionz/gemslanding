@@ -1,17 +1,19 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome
 
-## Commands
+Welcome to the APJ Global Emerging Market's (GEM) workshop. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Together with the Revenue Enablement and Competitive Team, we have put together a packed 5 Days workshop.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+### House Keeping Information
+
+| Event | Venue |
+| ----------- | ----------- |
+| **Breakfast** |  MEZZ |
+| **SE General Sessions (Monday-Wednesday)** |  Diamond Room |
+| **AE Breakout session (Wednesday Morning)** |  TBA |
+| **AE/SE Session (Thursday-Friday)** |  TBA |
+| **Lunch** |  MEZZ |
+
