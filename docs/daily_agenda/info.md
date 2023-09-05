@@ -18,4 +18,4 @@
 | **Lunch** |  Mezz Restaurant, 2nd floor |
 | **Cloud Native Session (Monday-Wednesday)** |  Diamond (Cabaret) Room |
 | **AE Breakout session (Wednesday)** |  Jade Room |
-| **One GTS Session (Thursday-Friday)** |  Diamond (Cabaret) Room |
+| **One GTM Session (Thursday-Friday)** |  Diamond (Cabaret) Room |
