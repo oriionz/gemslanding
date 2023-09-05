@@ -1,12 +1,21 @@
 
 
+### Hotel Information
+
+| Information | Detail |
+| ----------- | ----------- |
+| **Check-in** |  `14:00` |
+| **Check-out** |  `12:00` |
+| **Sofitel Saigon Plaza** |  #7 LE DUAN BLVD, DIST.1, HO CHI MINH CITY, VIETNAM |
+
+
 ### House Keeping Information
 
 | Event | Venue |
 | ----------- | ----------- |
-| **Breakfast** |  MEZZ |
-| **SE General Sessions (Monday-Wednesday)** |  Diamond Room |
-| **AE Breakout session (Wednesday Morning)** |  TBA |
-| **AE/SE Session (Thursday-Friday)** |  TBA |
-| **Lunch** |  MEZZ |
-
+| **Breakfast** |  Mezz Restaurant, 2nd floor |
+| **Coffes Breaks** |  Foyer |
+| **Lunch** |  Mezz Restaurant, 2nd floor |
+| **Cloud Native Session (Monday-Wednesday)** |  Diamond (Cabaret) Room |
+| **AE Breakout session (Wednesday)** |  Jade Room |
+| **One GTS Session (Thursday-Friday)** |  Diamond (Cabaret) Room |

@@ -96,7 +96,6 @@ markdown_extensions:
 
 plugins:
     - search
-    - table-reader
 
 
 # Style sheeting here
@@ -116,3 +115,4 @@ nav:
       - 'Account Planning (AE/SE)': daily_agenda/accounts_agenda.md
     - 'Resources':
       - 'SE Resources': daily_agenda/se_resources.md
+      - 'AE Resources': daily_agenda/ae_resources.md
