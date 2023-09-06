@@ -96,6 +96,7 @@ markdown_extensions:
 
 plugins:
     - search
+    - table-reader
 
 
 # Style sheeting here
