@@ -3,7 +3,7 @@
 
 Welcome to Ho Chi Minh City, Vietnam!
 
-This landing page serves as your go to place for the week long workshop. 
+This landing page serves as your go to place for the week long cloud Native workshop. 
 
 ** Sean to complete **
 
