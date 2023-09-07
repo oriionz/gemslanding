@@ -4,27 +4,22 @@
 
 | Time | Lab Topics |
 |-------------------------|----------|
-| `1:30pm - 3:00pm `            | OCP Architecture           |
+| `8:15am - 10:30am `            | OCP Architecture           |
 
 
 #### Design requirements for hybrid app
 | Time | Lab Topics |
 |-------------------------|----------|
-| `11:00am - 11:50am` | **Lakshmi to advice**|
+| `10:45am - 1:00pm` | **Lakshmi to advice**|
 
 
-#### Design requirements app lifecycle management
+#### App lifecycle / Backup DR management
 
-| Time | Sub Section |
+| Time | Lab topics |
 |-------------------------|----------|
-|` 2:30pm - 3:20pm `  | **Lakshmi to advice**|
+|` 1:45pm - 4:00pm `  | **Lakshmi to advice**|
 
 
-#### Application Backup and DR
-
-| Time | Breakout Session |
-|-------------------------|----------|
-|` 2:30pm - 3:20pm `  | **Lakshmi to advice**|
 
 
 
