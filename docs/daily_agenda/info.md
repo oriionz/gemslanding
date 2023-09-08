@@ -6,7 +6,7 @@
 | ----------- | ----------- |
 | **Check-in** |  `14:00` |
 | **Check-out** |  `12:00` |
-| **Sofitel Saigon Plaza** |  #7 LE DUAN BLVD, DIST.1, HO CHI MINH CITY, VIETNAM |
+| **Sofitel Saigon Plaza** |  <a href="https://goo.gl/maps/dzN4z3otiPSFksHu7" target="_blank">Map</a>  |
 
 
 ### House Keeping Information
