@@ -4,11 +4,11 @@
 
 |  Time | Session | Speaker |
 |-------------------------|--------|----------------|
-|`8:00am - 8:15am` | Welcome |
-|`8:15am - 9:45am` | Use case activity / Pre-assessment | Team Exercise|
-|`9:45am - 10:00am`| **Morning Coffee Break** |
-|`10:00am - 12:00pm` | Cloud Native and Microservices Simplified | Lakshmi Balaramane/Sean Lingham |
-|`12:00pm - 1:00pm` | **Lunch Break** |
+|`8:00am - 8:30am` | Welcome |
+|`8:30am - 10:00am` | Use case activity / Pre-assessment | Team Exercise|
+|`10:00am - 10:15am`| **Morning Coffee Break** |
+|`10:15am - 12:15pm` | Cloud Native and Microservices Simplified | Lakshmi Balaramane/Sean Lingham |
+|`12:15pm - 1:00pm` | **Lunch Break** |
 |`1:00pm - 3:00pm`| Cloud Native and Microservices Simplified | Lakshmi Balaramane/Sean Lingham |
 |`3:00pm - 3:15pm`| **Afternoon Coffee Break** |
 |`3:15pm - 5:15pm`| Cloud Native and Microservices Simplified | Lakshmi Balaramane/Sean Lingham |
