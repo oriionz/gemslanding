@@ -15,12 +15,12 @@
 |`12:30pm - 1:00pm `| 30 mins  | Identifying Competitors    | MH + Coaches |
 |`1:00pm - 2:00pm` | 60 mins | **Lunch Break** |
 |`2:00pm - 3:00pm`| 60 mins | Differentiation mapping | DD + Coaches |
-|`3:00pm - 3:45pm`| 45 mins | Selecting Competitive Strategies  | MH + Coaches |
-|`3:45pm - 4:15pm` | 30 mins | **Afternoon Coffee Break** |
-|`4:15pm - 4:45pm`| 30 mins | Defining Key Stakeholders | MH + Coaches |
-|`4:45pm - 5:15pm`| 30 mins | Understanding Formal and Informal Roles | MH + Coaches |
-|`5:15pm - 6:15pm`| 60 mins | Business and Competitive Alignment | MH + Coaches |
-|`6:15pm - 6:30pm` | 15 mins  | Debrief and close | DW |
+|`3:00pm - 4:00pm`| 60 mins | Selecting Competitive Strategies  | MH + Coaches |
+|`4:00pm - 4:30pm` | 30 mins | **Afternoon Coffee Break** |
+|`4:30pm - 5:00pm`| 30 mins | Defining Key Stakeholders | MH + Coaches |
+|`5:00pm - 5:30pm`| 30 mins | Understanding Formal and Informal Roles | MH + Coaches |
+|`5:30pm - 6:30pm`| 60 mins | Business and Competitive Alignment | MH + Coaches |
+|`6:30pm - 6:45pm` | 15 mins  | Debrief and close | DW |
 
 ## Friday 13 October 2023
 
