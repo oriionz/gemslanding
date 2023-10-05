@@ -6,7 +6,7 @@
 | Time | Duration | Session | Speaker |
 |-------------------------|------|----------|----------------|
 |`8:00am - 8:30am` | 30 mins  | Introduction/House-Keeping| Michelle Harte |
-|`8:30am - 9:00am` | 30 mins  | AE/SE Account Alignment "Let's get on the same Page" | Coaches |
+|`8:30am - 9:00am` | 30 mins  | AE/SE Account Alignment **Let's get on the same Page** | Coaches |
 |`9:00am - 9:45am` | 45 mins  | Aligning Value Propositions  | MH + Coaches |
 |`9:45am - 10:30am` | 45 mins  | Identifying potential Solutions   | MH + Coaches |
 |`10:30am - 11:00am` | 30 mins  | **Morning Coffee Break** |
