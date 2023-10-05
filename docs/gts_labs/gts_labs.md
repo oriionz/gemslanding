@@ -13,7 +13,7 @@ Labs are performed on HPOC
 
 |  Cluster Start Time |  Cluster End TIme         |
 |:---:|-----------|
-|  ==09-10-2023 18:00== | ==11-10-2023 18:00==|
+|  ==09-10-2023 12:00== | ==12-10-2023 22:00==|
 
 # Code of Conduct
 
