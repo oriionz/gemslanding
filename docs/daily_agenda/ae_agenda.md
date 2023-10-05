@@ -5,14 +5,14 @@
 
 | Time | Duration | Session | Speaker |
 |-------------------------|------|----------|----------------|
-|`8:30am - 8:45am` | 15 mins  | Introduction |
-|`8:45am - 10:15am` | 90 mins  | **MH to advice** | Michelle Harte |
-|`10:15am - 10:45am` | 30 mins  | Morning Coffee Break |
-|`10:45am - 12:15pm `| 90 mins  | **MH to advice** | Michelle Harte |
-|`12:15pm - 1:15pm` | 60 mins | Lunch Break |
-|`1:15pm - 2:45pm`| 90 miins | **MH to advice** | Michelle Harte |
-|`2:45pm - 3:15pm` | 30 mins | Afternoon Coffee Break |
-|`3:15pm - 4:45pm`| 90 miins | **MH to advice** | Michelle Harte |
-|`4:45pm - 5:00pm` | 15 mins  | Wrap-up |
+|`8:00am - 8:30am` | 30 mins  | Introduction/House-keeping |
+|`8:30am - 10:00am` | 90 mins  | Account Research | Michelle Harte/ Dirk Wiesmann |
+|`10:00am - 10:30am` | 30 mins  | Morning Coffee Break |
+|`10:30am - 12:00pm `| 90 mins  | Account Research | Michelle Harte / Marc Bardi |
+|`12:00pm - 1:00pm` | 60 mins | Lunch Break |
+|`1:00pm - 3:00pm`| 120 mins | Account Research Review | Marc Bardi/Dirk Wiesmann |
+|`3:00pm - 3:30pm` | 30 mins | Afternoon Coffee Break |
+|`3:30pm - 5:00pm`| 90 mins | Account Research Win-labs | Marc Bardi/Dirk Wiesmann |
+|`5:00pm - 6:00pm` | 60 mins  | Account Profile Finalization |
 
 
