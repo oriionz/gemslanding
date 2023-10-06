@@ -1,13 +1,14 @@
 
 
-#### Design requirements for kubernetes cluster
+#### Design requirements for Kubernetes cluster
 
 | Time | Lab Topics (Monday) |
 |-------------------------|----------|
 | `3:15pm - 5:15pm `            | OCP Architecture           |
 
 
-#### Design requirements for hybrid app
+#### Design requirements for Hybrid App
+
 | Time | Lab Topics (Tuesday)  |
 |-------------------------|----------|
 | `10:45am - 1:00pm` | OCP workloads|
