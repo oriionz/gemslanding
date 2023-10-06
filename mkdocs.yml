@@ -109,7 +109,7 @@ nav:
     - 'Cloud Native Workshop': 
       - 'General Session Agenda': daily_agenda/general_agenda.md
       - 'Lab Information': gts_labs/gts_labs.md
-      - 'Labs Agenda': daily_agenda/labs_agenda.md
+      - 'Lab Agenda': daily_agenda/labs_agenda.md
       - 'Clusters Lookup': cluster_lookup/cluster_lookup.md
     - 'One GTM Planning Workshop':
       - 'Account Planning (AE)': daily_agenda/ae_agenda.md
