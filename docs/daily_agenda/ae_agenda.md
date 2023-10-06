@@ -14,5 +14,6 @@
 |`3:00pm - 3:30pm` | 30 mins | **Afternoon Coffee Break** |
 |`3:30pm - 5:00pm`| 90 mins | Account Research Win-labs | MB/DW |
 |`5:00pm - 6:00pm` | 60 mins  | Account Profile Finalization |
+|`6:30pm - 8:30pm` | Team Dinner (TBA) |
 
 

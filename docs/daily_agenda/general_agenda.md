@@ -13,7 +13,6 @@
 |`3:00pm - 3:15pm`| **Afternoon Coffee Break** |
 |`3:15pm - 5:15pm`| OCP on Nutanix Lab preparations | LB/SL |
 |`5:15pm - 5:30pm` | Wrap up |
-|`6:30pm - 9:00pm` | Team Dinner |
 
 
 ## Day 2: Tuesday 10 October 2023
@@ -46,3 +45,4 @@
 |`3:15pm - 5:00pm`| SE Transformation 2.0 | VO |
 |`5:00pm - 6:15pm` | Team exercise |
 |`6:00pm - 6:15pm` | Wrap-up |
+|`6:30pm - 8:30pm` | Team Dinner (TBA) |
