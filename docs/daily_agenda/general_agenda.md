@@ -11,7 +11,7 @@
 |`12:15pm - 1:00pm` | **Lunch Break** |
 |`1:00pm - 3:00pm`| Cloud Native and Microservices Simplified | LB/SL |
 |`3:00pm - 3:15pm`| **Afternoon Coffee Break** |
-|`3:15pm - 5:15pm`| Lab - Implementing your first K8S Cluster | LB/SL |
+|`3:15pm - 5:15pm`| Lab - Design and Implement your first K8S Cluster | LB/SL |
 |`5:15pm - 5:30pm` | Wrap up |
 
 
@@ -22,9 +22,9 @@
 |`8:00am - 8:15am` | Day-1 Recap | LB |
 |`8:15am - 10:30am` | Microservices on Nutanix | LB/SL |
 |`10:30am - 10:45am` | **Morning Coffee Break** |
-|`10:45am - 1:00pm `| Lab - Hybrid App | LB/SL/HL |
+|`10:45am - 1:00pm `| Lab - Design and Implement your Hybrid App | LB/SL/HL |
 |`1:00pm - 1:45pm` | **Lunch Break** |
-|`1:45pm - 4:00pm`| Lab - Backup and Restore your App | LB/SL/HL |
+|`1:45pm - 4:00pm`| Lab - Design Backups for your Microservices App | LB/SL/HL |
 |`4:00pm - 4:15pm` | **Afternoon Coffee Break** |
 |`4:15pm - 5:15pm `| The Art of selling into Cloud Native | MB / DD |
 |`5:15pm - 5:20pm` | Wrap-up |

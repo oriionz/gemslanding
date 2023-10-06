@@ -1,20 +1,20 @@
 
 
-#### Design requirements for Kubernetes cluster
+#### Design and Implement your first K8S Cluster
 
 | Time | Lab Topics (Monday) |
 |-------------------------|----------|
 | `3:15pm - 5:15pm `            | OCP Architecture           |
 
 
-#### Design requirements for Hybrid App
+#### Design and Implement your Hybrid App
 
 | Time | Lab Topics (Tuesday)  |
 |-------------------------|----------|
 | `10:45am - 1:00pm` | OCP workloads|
 
 
-#### App lifecycle / Backup DR management
+#### Design Backups for your Microservices App
 
 | Time | Lab topics (Tuesday) |
 |-------------------------|----------|
