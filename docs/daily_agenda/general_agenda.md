@@ -11,7 +11,7 @@
 |`12:15pm - 1:00pm` | **Lunch Break** |
 |`1:00pm - 3:00pm`| Cloud Native and Microservices Simplified | LB/SL |
 |`3:00pm - 3:15pm`| **Afternoon Coffee Break** |
-|`3:15pm - 5:15pm`| Cloud Native and Microservices Simplified | LB/SL |
+|`3:15pm - 5:15pm`| OCP on Nutanix Lab preparations | LB/SL |
 |`5:15pm - 5:30pm` | Wrap up |
 |`6:30pm - 9:00pm` | Team Dinner |
 
@@ -21,7 +21,7 @@
 | Time | Session | Speaker |
 |-------------------------|----------|----------------|
 |`8:00am - 8:15am` | Day-1 Recap | LB |
-|`8:15am - 10:30am` | OCP on Nutanix Labs | LB/SL/HL |
+|`8:15am - 10:30am` | Cloud Native and Microservices Simplified | LB/SL |
 |`10:30am - 10:45am` | **Morning Coffee Break** |
 |`10:45am - 1:00pm `| OCP on Nutanix Labs | LB/SL/HL |
 |`1:00pm - 1:45pm` | **Lunch Break** |
