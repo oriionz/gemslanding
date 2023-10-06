@@ -107,9 +107,9 @@ nav:
     - 'Welcome': index.md
     - 'General Info': daily_agenda/info.md
     - 'Cloud Native Workshop': 
-      - 'General Session': daily_agenda/general_agenda.md
-      - 'OCP on Nutanix Labs': daily_agenda/labs_agenda.md
+      - 'General Session Agenda': daily_agenda/general_agenda.md
       - 'Lab Information': gts_labs/gts_labs.md
+      - 'Labs Agenda': daily_agenda/labs_agenda.md
       - 'Clusters Lookup': cluster_lookup/cluster_lookup.md
     - 'One GTM Planning Workshop':
       - 'Account Planning (AE)': daily_agenda/ae_agenda.md

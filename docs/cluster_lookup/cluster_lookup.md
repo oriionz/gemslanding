@@ -2,7 +2,6 @@
 
 You will need VPN to access the HPOC lookup
 
-<a href="https://lookup.apj-cxrules.win/" target="_blank">HPOC lookup</a>
-https://lookup.apj-cxrules.win/
-Username : gemsuser
-Password : ntnxGEMS2023!
+<a href="https://lookup.apj-cxrules.win/" target="_blank">HPOC Lookup</a>
+
+Access credentials will be published on Monday 9th October 2023.
