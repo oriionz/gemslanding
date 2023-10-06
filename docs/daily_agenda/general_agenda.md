@@ -4,8 +4,8 @@
 
 |  Time | Session | Speaker |
 |-------------------------|--------|----------------|
-|`8:00am - 8:30am` | Welcome |
-|`8:30am - 10:00am` | Use case activity / Pre-assessment | Team Exercise|
+|`8:00am - 8:30am` | Welcome | HL/SL/VO |
+|`8:30am - 10:00am` | Use case activity / Pre-assessment | HL/MB/Team Exercise|
 |`10:00am - 10:15am`| **Morning Coffee Break** |
 |`10:15am - 12:15pm` | Cloud Native and Microservices Simplified | LB/SL |
 |`12:15pm - 1:00pm` | **Lunch Break** |
@@ -20,7 +20,7 @@
 
 | Time | Session | Speaker |
 |-------------------------|----------|----------------|
-|`8:00am - 8:15am` | Day-1 Recap | HL/SL/VO |
+|`8:00am - 8:15am` | Day-1 Recap | LB |
 |`8:15am - 10:30am` | OCP on Nutanix Labs | LB/SL/HL |
 |`10:30am - 10:45am` | **Morning Coffee Break** |
 |`10:45am - 1:00pm `| OCP on Nutanix Labs | LB/SL/HL |
