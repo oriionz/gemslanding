@@ -45,4 +45,4 @@
 |`3:15pm - 5:00pm`| SE Transformation 2.0 | VO |
 |`5:00pm - 6:15pm` | Team exercise |
 |`6:00pm - 6:15pm` | Wrap-up |
-|`6:30pm - 8:30pm` | Team Dinner (TBA) |
+|`7:00pm - 9:00pm` | Team Dinner (Diamond Room) |

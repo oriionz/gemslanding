@@ -16,6 +16,7 @@
 | **Breakfast** |  Mezz Restaurant, 2nd floor |
 | **Coffes Breaks** |  Foyer |
 | **Lunch** |  Mezz Restaurant, 2nd floor |
+| **Team Dinner (Wednesday)** |  Diamond Room Lobby Level|
 | **Cloud Native Session (Monday-Wednesday)** |  Diamond (Cabaret) Room |
 | **AE Breakout session (Wednesday)** |  Jade Room |
 | **One GTM Session (Thursday-Friday)** |  Diamond (Cabaret) Room |
