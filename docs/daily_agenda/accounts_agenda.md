@@ -41,7 +41,8 @@
 |`3:30pm - 6:00pm `| 150 mins  | Peer Review Presentation  | Coaches |
 
 ???tip "Peer Review teams"
-      **Group 1 (Diamond Room**: Team Philippines, Malaysia, Thailand
+      **Group 1 (Diamond Room)**: Team Philippines, Malaysia, Thailand
+
       **Group 2 (Ruby room)**: Team Indonesia, Team Boyd
       
 
