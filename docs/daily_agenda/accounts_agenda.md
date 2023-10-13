@@ -38,5 +38,11 @@
 |`2:00pm - 2:30pm `| 30 mins  | Identify Account Team  | MH + Coaches |
 |`2:30pm - 3:15pm `| 45 mins  | Peer Review Prep  | Coaches |
 |`3:15pm - 3:30pm` | 15 mins | **Afternoon Coffee Break** |
-|`3:30pm - 6:00pm `| 150 mins  | Peer  Review Presentation  | Coaches |
+|`3:30pm - 6:00pm `| 150 mins  | Peer Review Presentation  | Coaches |
+
+???tip "Peer Review teams"
+      Group 1 : Team Philippines, Malaysia, Thailand 
+      Group 2 : Team Indonesia, Team Boyde
+      
+
 |`6:00pm - 6:30pm` | 30 mins  | Celebration/Recognition | DW

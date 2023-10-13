@@ -20,4 +20,4 @@
 | **Cloud Native Session (Monday-Wednesday)** |  Diamond (Cabaret) Room |
 | **AE Breakout session (Wednesday)** |  Jade Room |
 | **One GTM Session (Thursday-Friday)** |  Diamond (Cabaret) Room |
-| **Peer Review presentations (Friday)** |  **Group-1** Diamond (Cabaret) **Group-2** Ruby Room |
+| **Peer Review presentations (Friday 2PM onwards)** |  **Group-1** Diamond (Cabaret) **Group-2** Ruby Room |
