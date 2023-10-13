@@ -42,7 +42,7 @@
 
 ???tip "Peer Review teams"
       **Group 1 (Diamond Room**: Team Philippines, Malaysia, Thailand
-      **Group 2 (Ruby room)**: Team Indonesia, Team Boyde
+      **Group 2 (Ruby room)**: Team Indonesia, Team Boyd
       
 
 |`6:00pm - 6:30pm` | 30 mins  | Celebration/Recognition | DW
