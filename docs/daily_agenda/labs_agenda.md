@@ -10,8 +10,8 @@
 | `4:45pm - 5:15pm `  | <a href="https://ocp.howntnx.win/optional_labs/ocp_image_registry" target="_blank">Configure Objects as Registry Storage</a>          |
 
 !!!warning "Before you move on..."
-                                  Make sure to finish configuring Nutanix Objects as the container registry before moving on.
-
+            
+          Make sure to finish configuring Nutanix Objects as the container registry before moving on.
 
 #### Design and Implement your Hybrid App
 
