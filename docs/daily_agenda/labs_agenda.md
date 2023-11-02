@@ -11,7 +11,7 @@
 
 !!!warning "Before you move on..."
             
-          Make sure to finish configuring Nutanix Objects as the container registry before moving on.
+                                   Make sure to finish configuring Nutanix Objects as the container registry before moving on.
 
 
 #### Design and Implement your Hybrid App
