@@ -13,10 +13,10 @@ Labs are performed on HPOC
 
 |  Cluster Start Time |  Cluster End TIme         | Duration |
 |:---:|-----------|---|
-|  `13-05-2024 12:00` | `16-05-2024 22:00`| 104 hours|
+|  `13-05-2024 12:00` | `17-05-2024 18:00`| 108 hours|
 
-???tip "What can you do in 104 hours?"
-      104 hours is plenty of time to experiment with. 
+???tip "What can you do in 108 hours?"
+      108 hours is plenty of time to experiment with. 
       
       Finish instructor-led labs first.
 
