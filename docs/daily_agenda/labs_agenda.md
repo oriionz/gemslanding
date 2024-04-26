@@ -2,12 +2,11 @@
 
 #### Design and Implement your first K8S Cluster
 
-
 | Time (Monday)| Lab Topics  |
 |-------------------------|----------|
 | `3:15pm - 4:15pm `   | <a href="https://ocp.howntnx.win/" target="_blank">First K8S Cluster</a>          |
 | `4:15pm - 4:45pm `  | <a href="https://ocp.howntnx.win/ocp_ntnx_hci/ocp_csi" target="_blank">Configure Volumes CSI</a>          |
-| `4:45pm - 5:15pm `  | <a href="https://ocp.howntnx.win/optional_labs/ocp_image_registry" target="_blank">Configure Objects as Registry Storage</a>          |
+| `4:45pm - 5:00pm `  | <a href="https://ocp.howntnx.win/optional_labs/ocp_image_registry" target="_blank">Configure Objects as Registry Storage</a>          |
 
 !!!warning "Before you move on..."
           Make sure to finish configuring Nutanix Objects as the container registry before moving on.
@@ -29,11 +28,11 @@ Check out how easy it is to provide secondary storage (on top of primary storage
 |-------------------------|----------|
 |` 1:45pm - 4:00pm `  |<a href="https://ocp.howntnx.win/optional_labs/objects_prep" target="_blank">Design Backups for your Microservices App</a> |
 
-#### Design Serverless and Continuous Software Deployment (Bonus)
+#### Design Serverless and Continuous Software Deployment
 
 Are you keen to find out how you can deploy a continuous software development environment using Nutanix HCI and NUS providing great value for your customer's investment?
 
 | Time (Tuesday) | Lab Topic|
 |-------------------------|----------|
-|`When time permits `  |<a href="https://ocp.howntnx.win/ocp_serverless/" target="_blank">Design Serverless and Continuous Software Deployment</a> |
+|`3:45pm - 5:00pm`  |<a href="https://ocp.howntnx.win/ocp_serverless/" target="_blank">Design Serverless and Continuous Software Deployment</a> |
 

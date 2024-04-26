@@ -13,14 +13,14 @@ Labs are performed on HPOC
 
 |  Cluster Start Time |  Cluster End TIme         | Duration |
 |:---:|-----------|---|
-|  `09-10-2023 12:00` | `12-10-2023 22:00`| 82 hours|
+|  `13-05-2024 12:00` | `16-05-2024 22:00`| 104 hours|
 
-???tip "What can you do in 82 hours?"
-      82 hours is plenty of time to experiment with. 
+???tip "What can you do in 104 hours?"
+      104 hours is plenty of time to experiment with. 
       
       Finish instructor-led labs first.
 
-      Here is a lab you can do to learn CAPI: <a href="https://capx.howntnx.win" target="_blank">CAPI on Nutanix - the hard way</a>
+      Here is a lab you can do to learn CAPI: <a href="https://capx.howntnx.win" target="_blank">CAPX on Nutanix - the hard way</a>
        
 
 # Code of Conduct
