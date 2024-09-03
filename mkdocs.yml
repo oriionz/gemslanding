@@ -111,7 +111,7 @@ nav:
 - 'General Info': daily_agenda/info.md
 - 'Cloud Native Workshop':
   - 'General Session Agenda': daily_agenda/general_agenda.md
-  - 'SingaporeGeneral Session Agenda': daily_agenda/general_agenda_sing.md
+  - 'Singapore Session Agenda': daily_agenda/general_agenda_sing.md
   - 'Lab Information': gts_labs/gts_labs.md
   - 'Lab Agenda': daily_agenda/labs_agenda.md
   - 'Clusters Lookup': cluster_lookup/cluster_lookup.md
