@@ -45,81 +45,80 @@ theme:
   - search.suggest
   - toc.follow
   palette:
-    - primary: deep purple
-    #Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      scheme: default
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
+  - primary: deep purple
+  #Palette toggle for automatic mode
+  - media: "(prefers-color-scheme)"
+    scheme: default
+    toggle:
+      icon: material/brightness-auto
+      name: Switch to light mode
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
+  # Palette toggle for light mode
+  - media: "(prefers-color-scheme: light)"
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/weather-night
-        name: Switch to system preference
+  # Palette toggle for dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    toggle:
+      icon: material/weather-night
+      name: Switch to system preference
 markdown_extensions:
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - admonition
-  - pymdownx.details
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji 
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-
-   
+- attr_list
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg
+- admonition
+- pymdownx.details
+- pymdownx.highlight:
+    anchor_linenums: true
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.superfences:
+    custom_fences:
+    - name: mermaid
+      class: mermaid
+      format: !!python/name:pymdownx.superfences.fence_code_format
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- pymdownx.tabbed:
+    alternate_style: true
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- tables
 
 plugins:
-    - search
-    - table-reader
+- search
 
 
 # Style sheeting here
 # extra_css:
 #   - stylesheets/extra.css
 extra_javascript:
-  - javascripts/termy-1.1.js
-  - javascripts/autosize-4.0.0.min.js
-  - javascripts/jquery-3.3.1.min.js
-  - javascripts/typed-2.0.6.min.js
+- javascripts/termy-1.1.js
+- javascripts/autosize-4.0.0.min.js
+- javascripts/jquery-3.3.1.min.js
+- javascripts/typed-2.0.6.min.js
 
 nav:
-    - 'Welcome': index.md
-    - 'General Info': daily_agenda/info.md
-    - 'Cloud Native Workshop': 
-      - 'General Session Agenda': daily_agenda/general_agenda.md
-      - 'HK-TW General Session Agenda': daily_agenda/general_agenda_hktw.md
-      - 'Lab Information': gts_labs/gts_labs.md
-      - 'Lab Agenda': daily_agenda/labs_agenda.md
-      - 'Clusters Lookup': cluster_lookup/cluster_lookup.md
-    - 'One GTM Planning Workshop':
-      - 'Account Planning (AE)': daily_agenda/ae_agenda.md
-      - 'Account Planning (AE/SE)': daily_agenda/accounts_agenda.md
-    - 'Resources':
-      - 'SE Resources': daily_agenda/se_resources.md
-      - 'AE Resources': daily_agenda/ae_resources.md
+- 'Welcome': index.md
+- 'General Info': daily_agenda/info.md
+- 'Cloud Native Workshop':
+  - 'General Session Agenda': daily_agenda/general_agenda.md
+  - 'HK-TW General Session Agenda': daily_agenda/general_agenda_hktw.md
+  - 'Singapore General Session Agenda': daily_agenda/general_agenda_singapore.md
+  - 'Lab Information': gts_labs/gts_labs.md
+  - 'Lab Agenda': daily_agenda/labs_agenda.md
+  - 'Clusters Lookup': cluster_lookup/cluster_lookup.md
+- 'One GTM Planning Workshop':
+  - 'Account Planning (AE)': daily_agenda/ae_agenda.md
+  - 'Account Planning (AE/SE)': daily_agenda/accounts_agenda.md
+- 'Resources':
+  - 'SE Resources': daily_agenda/se_resources.md
+  - 'AE Resources': daily_agenda/ae_resources.md
