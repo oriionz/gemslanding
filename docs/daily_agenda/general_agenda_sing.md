@@ -5,7 +5,7 @@
 |  Time | Session | Speaker |
 |-------------------------|--------|----------------|
 |`9:00am - 9:30am` | Welcome | VO |
-|`9.30am - 10:30am` | How-to Cloud Native Deals and ``kubevirt`` Competitive | TBA |
+<!-- |`9.30am - 10:30am` | How-to Cloud Native Deals and ``kubevirt`` Competitive | TBA | -->
 |`10:30am - 10:45am` | **Morning Coffee Break** |
 |`10.45am - 12:15pm` | Cloud Native and Microservices Simplified | LB |
 |`12:15pm - 1:00pm` | **Lunch Break** |
