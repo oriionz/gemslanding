@@ -4,10 +4,10 @@
 
 |  Time | Session | Speaker |
 |-------------------------|--------|----------------|
-|`10:00am - 10:30am` | Welcome | VO |
-|`10:30am - 11:30am` | Cloud Native and Microservices Simplified| LB |
-|`11:30am - 11:45am` | **Morning Coffee Break** |
-|`11.45am - 13:15pm` | Cloud Native and Microservices Simplified | LB |
+|`9:00am - 9:30am` | Welcome | VO |
+|`9:30am - 10:30am` | Cloud Native and Microservices Simplified| LB |
+|`10:30am - 10:45am` | **Morning Coffee Break** |
+|`10.45am - 13:15pm` | Cloud Native and Microservices Simplified | LB |
 |`13:15pm - 2:00pm` | **Lunch Break** |
 |`2:00pm - 3:00pm`| Cloud Native and Microservices Simplified | LB |
 |`3:00pm - 3:15pm`| **Afternoon Coffee Break** |
