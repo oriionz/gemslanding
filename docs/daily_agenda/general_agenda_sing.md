@@ -5,7 +5,7 @@
 |  Time | Session | Speaker |
 |-------------------------|--------|----------------|
 |`9:00am - 9:30am` | Welcome | VO |
-|`9:30am - 10:30am` | Cloud Native and Microservices Simplified| TBA |
+|`9:30am - 10:30am` | Cloud Native and Microservices Simplified| LB |
 |`10:30am - 10:45am` | **Morning Coffee Break** |
 |`10.45am - 12:15pm` | Cloud Native and Microservices Simplified | LB |
 |`12:15pm - 1:00pm` | **Lunch Break** |
@@ -19,7 +19,7 @@
 | Time | Session | Speaker |
 |-------------------------|----------|----------------|
 |`9:00am - 9:15am` | Day-1 Recap | LB |
-|`9:15am - 11:00am`| The Art of selling into Cloud Native | DD |
+|`9:15am - 11:00am`| Microservices on Nutanix  | LB |
 |`11.00am - 11.15am` | **Morning Coffee Break** |
 |`11:15am - 1:00pm` | Microservices on Nutanix | LB |
 |`1:00pm - 1:45pm` | **Lunch Break** |
@@ -33,7 +33,7 @@
 | Time | Session | Speaker |
 |-------------------------|----------|----------------|
 |`8:00am - 8:15am` | Day-2 Recap | LB |
-|`8:15am - 10:00am`| AI on Nutanix  | WS |
+|`8:15am - 10:00am`| Labs Time and CN Consulting  | LB |
 |`10:00am - 10:15am`| **Morning Coffee Break** |
 |`1:00pm - 3:00pm`| Lab Time and CN Consulting | LB |
 |`12:00pm - 1:00pm` | **Lunch Break** |
