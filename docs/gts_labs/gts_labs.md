@@ -2,7 +2,7 @@
 
 # Labs Information
 
-Labs are performed on HPOC 
+Labs are performed on HPOC cluster.
 
 - Use Global Protect VPN to connect to lab environment
 - If you are using your own laptop; you can use either one of the following methods
@@ -13,7 +13,7 @@ Labs are performed on HPOC
 
 |  Cluster Start Time |  Cluster End TIme         | Duration |
 |:---:|-----------|---|
-|  `13-05-2024 12:00` | `17-05-2024 18:00`| 108 hours|
+|  `01-10-2024 12:00` | `06-10-2024 11:00`| 108 hours|
 
 ???tip "What can you do in 108 hours?"
       108 hours is plenty of time to experiment with. 
@@ -43,4 +43,4 @@ We ask you the following:
 - Troubleshoot - do not expect labs to just work
 - Do not just COPY & PASTE commands without understanding the reason behind it
 - If instructions say type “XYZ”, it doesn’t mean to type ~~“XYZ”~~
-- If in doubt, ^^ASK!^^
+- If in doubt, ^^ASK FOR HELP!^^
