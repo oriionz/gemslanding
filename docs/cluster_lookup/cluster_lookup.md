@@ -2,6 +2,6 @@
 
 You will need VPN to access the HPOC lookup
 
-<a href="https://lookuptw.apj-cxrules.win/" target="_blank">HPOC Lookup</a>
+<a href="https://lookupsg.apj-cxrules.win/" target="_blank">HPOC Lookup</a>
 
-Access credentials will be published on Monday 9th October 2023.
+Access credentials will be published on Wednesday 1st October 2024.
