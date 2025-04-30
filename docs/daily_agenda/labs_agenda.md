@@ -37,7 +37,7 @@ Check out how easy it is to provide secondary storage (on top of primary storage
 
 | Time (Thursday) | Lab Topic |
 |-------------------------|----------|
-| `10:45am - 1:00pm` | <a href="https://nai.howntnx.win/infra/infra_nkp/" target="_blank">Deploy your NKP K8S Cluster</a>|
+| `10:45am - 1:00pm` | <a href="https://nai.howntnx.win/nai/" target="_blank">Deploy your NKP K8S Cluster</a>|
 
 #### Design Serverless and Continuous Software Deployment
 
