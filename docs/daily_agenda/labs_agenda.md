@@ -1,12 +1,12 @@
 #### Deploy LinuxToolsVM 
 
-| Time (Wednesday)| Lab Topics  |
+| Time (Monday)| Lab Topics  |
 |-------------------------|----------|
 | `3:00pm - 3:15pm `   | <a href="https://ocp.howntnx.win/toolsvms/linux_tools_vm" target="_blank">Deploy LinuxToolsVM</a>          |     |
 
 #### Design and Implement your first K8S Cluster
 
-| Time (Wednesday)| Lab Topics  |
+| Time (Monday)| Lab Topics  |
 |-------------------------|----------|
 | `3:15pm - 4:15pm `   | <a href="https://ocp.howntnx.win/" target="_blank">Deploy your OCP K8S Cluster</a>          |
 | `4:15pm - 4:45pm `  | <a href="https://ocp.howntnx.win/ocp_ntnx_hci/ocp_csi" target="_blank">Configure Volumes CSI</a>          |
@@ -20,7 +20,7 @@
 
 Unleash the power of Nutanix NDB for your hybrid app and see what value it can bring to your customer.
 
-| Time (Thursday) | Lab Topic  |
+| Time (Tuesday) | Lab Topic  |
 |-------------------------|----------|
 | `10:45am - 1:00pm` | <a href="https://ocp.howntnx.win/ocp_ndb/" target="_blank">Design and Implement your Hybrid App</a>|
 
@@ -29,13 +29,13 @@ Unleash the power of Nutanix NDB for your hybrid app and see what value it can b
 
 Check out how easy it is to provide secondary storage (on top of primary storage) for your customer's workloads.
 
-| Time (Thursday) | Lab Topic |
+| Time (Wednesday) | Lab Topic |
 |-------------------------|----------|
 |` 1:45pm - 4:00pm `  |<a href="https://ocp.howntnx.win/optional_labs/objects_prep" target="_blank">Design Backups for your Microservices App</a> |
 
 #### Deploy your First NKP K8S Cluster
 
-| Time (Thursday) | Lab Topic |
+| Time (Wednesday) | Lab Topic |
 |-------------------------|----------|
 | `10:45am - 1:00pm` | <a href="https://nai.howntnx.win/nai/" target="_blank">Deploy your NKP K8S Cluster</a>|
 
@@ -46,7 +46,7 @@ Are you keen to find out how you can deploy a continuous software development en
 !!! warning
     This lab is optional and must be done on a OCP cluster.
 
-| Time (Thursday) | Lab Topic|
+| Time (Wednesday) | Lab Topic|
 |-------------------------|----------|
 |`3:45pm - 5:00pm`  |<a href="https://ocp.howntnx.win/ocp_serverless/" target="_blank">Design Serverless and Continuous Software Deployment</a> |
 
