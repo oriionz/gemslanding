@@ -1,4 +1,4 @@
-# Singapore Cloud Native Workshop
+# Japan Cloud Native Workshop
 
 ## Day 1: Monday 19 May 2025
 
