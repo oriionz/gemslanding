@@ -4,7 +4,7 @@
 
 |  Time | Session | Speaker |
 |-------------------------|--------|----------------|
-|`9:00am - 9:15am` |  Welcome |  Leadership a|
+|`9:00am - 9:15am` |  Welcome |  Leadership |
 |`9:15am - 10:15am` | Cloud Native Value Selling | CE |
 |`10:15am - 10:30am` | **Morning Coffee Break** |
 |`10.30am - 12:15pm` | Cloud Native and Microservices Simplified | LB |
