@@ -8,7 +8,7 @@
 
 | Time (Monday)| Lab Topics  |
 |-------------------------|----------|
-| `3:15pm - 4:15pm `   | <a href="https://ocp.howntnx.win/" target="_blank">Deploy your OCP K8S Cluster</a>          |
+| `3:15pm - 4:15pm `   | <a href="https://ocp.howntnx.win/ocp_ipi_install/ocp_ipi_intro" target="_blank">Deploy your OCP K8S Cluster</a>          |
 | `4:15pm - 4:45pm `  | <a href="https://ocp.howntnx.win/ocp_ntnx_hci/ocp_csi" target="_blank">Configure Volumes CSI</a>          |
 | `4:45pm - 5:00pm `  | <a href="https://ocp.howntnx.win/optional_labs/ocp_image_registry" target="_blank">Configure Objects as Registry Storage</a>          |
 
