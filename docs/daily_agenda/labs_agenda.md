@@ -33,20 +33,20 @@ Check out how easy it is to provide secondary storage (on top of primary storage
 |-------------------------|----------|
 |` 1:45pm - 4:00pm `  |<a href="https://ocp.howntnx.win/optional_labs/objects_prep" target="_blank">Design Backups for your Microservices App</a> |
 
+
+#### Design Serverless and Continuous Software Deployment
+
+Are you keen to find out how you can deploy a continuous software development environment using Nutanix HCI and NUS providing great value for your customer's investment? 
+
+| Time (Day 3) | Lab Topic|
+|-------------------------|----------|
+|`3:45pm - 5:00pm`  |<a href="https://ocp.howntnx.win/ocp_serverless/" target="_blank">Design Serverless and Continuous Software Deployment</a> |
+
 #### Deploy your First NKP K8S Cluster
 
 | Time (Day 3) | Lab Topic |
 |-------------------------|----------|
 | `10:45am - 1:00pm` | <a href="https://nai.howntnx.win/iep/" target="_blank">Deploy NAI on NKP K8S Cluster</a>|
 
-#### Design Serverless and Continuous Software Deployment
 
-Are you keen to find out how you can deploy a continuous software development environment using Nutanix HCI and NUS providing great value for your customer's investment? 
-
-!!! warning
-    This lab is optional and must be done on a OCP cluster.
-
-| Time (Day 3) | Lab Topic|
-|-------------------------|----------|
-|`3:45pm - 5:00pm`  |<a href="https://ocp.howntnx.win/ocp_serverless/" target="_blank">Design Serverless and Continuous Software Deployment</a> |
 
