@@ -114,6 +114,7 @@ nav:
   - 'Singapore Session Agenda': daily_agenda/general_agenda_sing.md
   - 'Japan Session Agenda': daily_agenda/general_agenda_japan.md
   - 'India Session Agenda': daily_agenda/general_agenda_india.md
+  - 'ANZ Session Agenda': daily_agenda/general_agenda_anz.md
   - 'Lab Information': gts_labs/gts_labs.md
   - 'Lab Agenda': daily_agenda/labs_agenda.md
   - 'Clusters Lookup': cluster_lookup/cluster_lookup.md
