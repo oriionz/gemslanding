@@ -1,6 +1,6 @@
 # India Cloud Native Workshop
 
-## Day 1: Tuesday 3rd June 2025
+## Day 1: Tuesday 17th June 2025
 
 |  Time | Session | Speaker |
 |-------------------------|--------|----------------|
@@ -14,7 +14,7 @@
 |`3:15pm - 6:00pm`| Lab - Design and Implement your first K8S Cluster | LB |
 
 
-## Day 2: Wednesday 4th June 2025
+## Day 2: Wednesday 18th June 2025
 
 | Time | Session | Speaker |
 |-------------------------|----------|----------------|
@@ -27,7 +27,7 @@
 |`3:30pm - 3:45pm` | **Afternoon Coffee Break** |
 |`3:45pm - 5:00pm`| Lab - Design Backups for your Microservices App | LB |
                         
-## Day 3: Thursday 5th June 2025
+## Day 3: Thursday 19th June 2025
 
 
 | Time | Session | Speaker |
