@@ -1,4 +1,4 @@
-# India Cloud Native Workshop
+# ANZ Cloud Native Workshop
 
 ## Day 1: Tuesday 17th June 2025
 
